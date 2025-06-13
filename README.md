@@ -116,7 +116,7 @@ All trained models saved as `.pkl` files for easy deployment
 ## 👨‍💻 Author
 
 **Pradeep Rajan**  
-📧 pradeeprajans@gmail.com  
+📧 pradeeeprajans@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/pradeeprajans)  
 🔗 [GitHub](https://github.com/pradeeprajans)  
 🔗 [Portfolio](https://pradeeprajans.github.io/Portfolio)

@@ -26,31 +26,39 @@ It showcases a complete end-to-end data science pipeline — from data cleaning 
 
 ## 📁 Folder Structure
 
+```
 
-INX_Employee_Performance/
-│
-├── data/
+├── Data/
 │ ├── INX_Employee_Performance.xlsx
 │ ├── Employee_Data_Engineered.csv
 │ └── Employee_Data_Before_Encoding.csv
-│
-├── notebooks/
-│ ├── 01_EDA.ipynb
-│ ├── 02_Feature_Engineering.ipynb
-│ ├── 03_Model_Building.ipynb
-│ ├── 04_Model_Evaluation.ipynb
-│ └── 05_Insights_Recommendations.ipynb
 │
 ├── models/
 │ ├── best_rf_model.pkl
 │ ├── log_reg_model.pkl
 │ └── scaler.pkl
 │
-├── visuals/
-│ └── department_performance.png
+├── PowerBI_visuals/
+│ └── Dashboards.pbix
+│
+├── Project_summary/
+│ └── Project_summary.ipynb
+│
+├── reports/
+│ └── Correlation_matrix.png
+│ └── Department-wise_Performance.png
+│ └── Evaluation_report_RandomForest_Tuned.png
+│ └── Top_10_important_Features_affecting_Performance.png
+│
+├── 01_EDA.ipynb
+├── 02_Feature_Engineering.ipynb
+├── 03_Model_Building.ipynb
+├── 04_Model_Evaluation.ipynb
+└── Insights_&_Recommendations.ipynb
+└── Employee_Performance_Analysis_Presentation.pptx
 │
 └── README.md
-
+```
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)

@@ -125,12 +125,6 @@ All trained models saved as `.pkl` files for easy deployment
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgements
 
 - Guided by **IABAC (International Association of Business Analytics Certifications)**

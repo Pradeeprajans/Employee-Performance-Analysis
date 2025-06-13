@@ -2,7 +2,6 @@
 
 ![IABAC Certified](https://img.shields.io/badge/Certified-IABAC-blue)
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Built with Scikit-learn](https://img.shields.io/badge/Built%20with-scikit--learn-yellow)
 
@@ -27,7 +26,7 @@ It showcases a complete end-to-end data science pipeline — from data cleaning 
 ## 📁 Folder Structure
 
 ```
-
+Employee_Performance_Analysis/
 ├── Data/
 │ ├── INX_Employee_Performance.xlsx
 │ ├── Employee_Data_Engineered.csv
@@ -56,7 +55,6 @@ It showcases a complete end-to-end data science pipeline — from data cleaning 
 ├── 04_Model_Evaluation.ipynb
 └── Insights_&_Recommendations.ipynb
 └── Employee_Performance_Analysis_Presentation.pptx
-│
 └── README.md
 ```
 ---
@@ -121,7 +119,7 @@ All trained models saved as `.pkl` files for easy deployment
 📧 pradeeprajans@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/pradeeprajans)  
 🔗 [GitHub](https://github.com/pradeeprajans)  
-🔗 [Portfolio](https://your-portfolio-link.com)
+🔗 [Portfolio](https://pradeeprajans.github.io/Portfolio)
 
 ---
 
